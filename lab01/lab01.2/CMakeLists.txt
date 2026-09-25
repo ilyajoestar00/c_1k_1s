@@ -1,0 +1,7 @@
+﻿project("lab01.2")
+
+file(GLOB SRC src/*.c)
+
+include_directories(include)
+
+add_executable(${PROJECT_NAME} ${SRC})

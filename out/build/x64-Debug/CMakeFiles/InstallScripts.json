@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/cmake_install.cmake",
+		"C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.1/cmake_install.cmake",
+		"C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

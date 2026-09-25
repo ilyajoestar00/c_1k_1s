@@ -1,0 +1,140 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "lab01",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-lab01-Debug-c1be3fd2de21d361e422.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lab01"
+				},
+				{
+					"build" : "lab01/lab01.1",
+					"jsonFile" : "directory-lab01.lab01.1-Debug-c0d575e584f83c9b8170.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "lab01/lab01.1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "lab01/lab01.2",
+					"jsonFile" : "directory-lab01.lab01.2-Debug-3d4993165a9c92845ebd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "lab01/lab01.2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "c_1k_1s"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "lab01.1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "lab01.2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "lab01.1::@3ca6f099920f61e62f0a",
+					"jsonFile" : "target-lab01.1-Debug-199991af7217338ee4df.json",
+					"name" : "lab01.1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lab01.2::@35c06e9ae652fa1eabba",
+					"jsonFile" : "target-lab01.2-Debug-332d78af870d9ba0378b.json",
+					"name" : "lab01.2",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug",
+		"source" : "C:/Users/neste/source/repos/c_1k_1s"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

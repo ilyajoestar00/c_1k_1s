@@ -1,0 +1,10 @@
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/CMakeFiles/edit_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/CMakeFiles/rebuild_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.1/CMakeFiles/lab01.1.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.1/CMakeFiles/edit_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.1/CMakeFiles/rebuild_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.2/CMakeFiles/lab01.2.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.2/CMakeFiles/edit_cache.dir
+C:/Users/neste/source/repos/c_1k_1s/out/build/x64-Debug/lab01/lab01.2/CMakeFiles/rebuild_cache.dir
